@@ -244,7 +244,7 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 👨‍💻 Autor
 
-**locon** - Universidad Nacional de Colombia
+**Néstor** - Universidad Nacional de Colombia
 
 ---
 
